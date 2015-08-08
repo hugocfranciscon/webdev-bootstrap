@@ -1,0 +1,53 @@
+
+.navbar-nav>li>a{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-right: 1px solid #e0e0e0
+}
+
+html{
+	padding-top:80px;
+}
+#nav {
+	background: #C2C800;
+}
+.navbar{
+	height:52px !important
+}
+
+.navbar-nav>li>a:hover{
+	background: #fefefe  !important
+}
+#form-buscar{
+	padding: 9px;
+}
+#logo {
+	padding-top: 8px;
+}
+#logo_ {	
+	font-weight: 400;
+    font-size: 30px;
+    text-decoration: none;
+}
+#entrar {
+	padding-top: 15px;
+}
+#entrar_{
+	font-weight: 700;
+    font-size: 15px;    
+    color: #FFF;
+    text-decoration: none;
+}
+#faca_parte {
+	padding-left: -10px;
+    font-size: 51px;
+    font-weight: 700;
+}
+#junte_se {
+	padding-left: -10px;
+	font-size: 19px;
+    font-weight: 700;
+}
+.fotos {
+	padding-top: 15px;
+}
