@@ -1,0 +1,47 @@
+
+html{
+	padding-top: 80px;
+}
+.topo {
+	background: @brand-topo;
+}
+.navbar{
+	height: @height-52 !important
+}
+
+.navbar-nav>li>a:hover{
+	background: @brand-white  !important
+}
+.form-buscar{
+	padding: @padding-buscar;
+}
+.logo {
+	padding-top: @padding-top-logo;
+}
+.logo_ {	
+	font-weight: @font-400;
+    font-size: @font-size-h2;
+    text-decoration: none;
+}
+.entrar {
+	padding-top: @padding-top-15;
+}
+.entrar_{
+	font-weight: @font-700;
+    font-size: @font-size-base;    
+    color: @brand-white;
+    text-decoration: none;
+}
+.faca_parte {
+	padding-left: -10px;
+    font-size: @font-size-xlarge;
+    font-weight: @font-700;
+}
+.junte_se {
+	padding-left: -10px;
+	font-size: @font-size-h4;
+    font-weight: @font-700;
+}
+.fotos {
+	padding-top: @padding-top-15;
+}
